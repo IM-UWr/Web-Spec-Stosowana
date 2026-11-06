@@ -12,6 +12,8 @@ poziom: studia I i II stopnia
 poziom_en: first- and second-cycle studies
 opis: 'Modelowanie zjawisk deterministycznych i losowych: równania różniczkowe, procesy stochastyczne, metody numeryczne i symulacje, z elementami analizy danych i nauk przyrodniczych.'
 opis_en: 'Modelling deterministic and random phenomena: differential equations, stochastic processes, numerical methods and simulations, combined with data analysis and the natural sciences.'
+haslo: "Modele prawdziwych zjawisk"
+haslo_en: "Models of real-world phenomena"
 zaklad: rownania-rozniczkowe
 opiekunowie:
 - imie_nazwisko: Grzegorz Karch

@@ -1,0 +1,52 @@
+{
+  "kierunek": "matematyka",
+  "poziom": "studia I i II stopnia",
+  "poziom_en": "first- and second-cycle studies",
+  "opis": "Modelowanie zjawisk deterministycznych i losowych: równania różniczkowe, procesy stochastyczne, metody numeryczne i symulacje, z elementami analizy danych i nauk przyrodniczych.",
+  "opis_en": "Modelling deterministic and random phenomena: differential equations, stochastic processes, numerical methods and simulations, combined with data analysis and the natural sciences.",
+  "haslo": "Modele prawdziwych zjawisk",
+  "haslo_en": "Models of real-world phenomena",
+  "skrot": "MS",
+  "zaklad": "rownania-rozniczkowe",
+  "opiekunowie": [
+    {
+      "imie_nazwisko": "Grzegorz Karch"
+    }
+  ],
+  "seminaria": [
+    "rownania-rozniczkowe"
+  ],
+  "wygaszana": false,
+  "kolejnosc": 2,
+  "kafelek_dla_kogo": "Dla osób, które lubią równania różniczkowe i rachunek prawdopodobieństwa, chcą łączyć matematykę z programowaniem i obliczeniami oraz interesują się zastosowaniami w naukach przyrodniczych.",
+  "kafelek_dla_kogo_en": "For those who enjoy differential equations and probability, want to combine mathematics with programming and computation, and are interested in applications in the natural sciences.",
+  "kafelek_kariera": "Praca w sektorach wymagających wysokich kompetencji, krytycznego myślenia i rozwiązywania nietypowych problemów — m.in. w przemyśle i innowacyjnych startupach.",
+  "kafelek_kariera_en": "Work in sectors requiring high competence, critical thinking and non-standard problem solving — e.g. industry and innovative start-ups.",
+  "zrodla": [
+    "https://www.math.uni.wroc.pl/matematyka (sekcja „Specjalności”, opiekun specjalności)",
+    "https://www.math.uni.wroc.pl/specjalnosci-0 (opiekunowie specjalności)",
+    "https://www.math.uni.wroc.pl/sprawy-studenckie (koła naukowe)",
+    "/pliki/studia/przewodnik-mt-lic.pdf (Tabele 2b–7, 9, 12, 15; rozdz. IX–XI)",
+    "/pliki/studia/przewodnik-mt-mgr.pdf (rozdz. I–III, Tabele 1, 4, 12)",
+    "/pliki/studia/spec-matematyka-stosowana.pdf",
+    "/pliki/studia/stary-program-mt-mgr.pdf",
+    "/pliki/studia/zmiany2026.pdf",
+    "/pliki/studia/mgr21-st-zakres.pdf",
+    "/pliki/studia/tem7.pdf (tematy prac dyplomowych, 2024 — promotorzy z Zakładu Równań Różniczkowych)",
+    "https://www.math.uni.wroc.pl/egzamin-magisterski",
+    "https://bip.uni.wroc.pl/download/attachment/52226/uchwala-nr-48_2026-senatu-uwr-z-2026-05-27-w-sprawie-programu-studiow-dla-kierunku-matematyka-stacjonarne-i-i-ii-stopnia.pdf (sylwetka absolwenta, potrzeby społeczno-gospodarcze, efekty uczenia się I stopnia)",
+    "Katalog przedmiotów USOS UWr — opisy i efekty uczenia się: 28-MT-S-tModDeter, 28-MT-S-tModStoch, 28-INF-S-DOAN, 28-MT-S-oRR1-R, 28-MT-S-TRR2R, 28-MT-S-tWDSymMMC, 28-MT-S-tZaMetNumA, 28-MT-S-tSzerCzas, 28-MT-S-tAnFunkcj1, 28-MT-S-LBazDan, 28-MT-S-LPr2Py, 28-MT-S-LPodStatPr, 28-MT-S-tTop, 28-MT-S-tMiarCalk, 28-MT-S-oZespProj, 28-MT-S-BPGenet, 28-MT-S-BMetGeostAnS oraz przedmioty polecane (28-MT-S-tFunAnal-R, TMPMechKw, tModLin, TNielAnFu, tProgMatOpta, tRPrawd2R, tSymAlgZaLM, TSzerTrF, TTGrafa, tWnStat, tWDZAnFalk)",
+    "src/content/zaklady/rownania-rozniczkowe.md, src/content/seminaria/rownania-rozniczkowe.md, src/content/granty/ (projekty pracowników zakładu)"
+  ],
+  "do_uzupelnienia": [
+    "Opisy przedmiotów Mechanika klasyczna, Uczenie maszynowe (wersja dla MS), Wstęp do kombinatoryki, Kartografia matematyczna i Seminaria przeglądowe — brak opisu w katalogu USOS (nowe przedmioty lub puste karty).",
+    "Opis Specjalnościowego projektu zespołowego wzięto z karty USOS dotychczasowego przedmiotu „Zespołowy projekt specjalnościowy” — potwierdzić, że program jest taki sam.",
+    "Ścieżki kariery — tylko ogólne sformułowania z programu studiów; brak danych o losach absolwentów samej specjalności.",
+    "Tematy prac wybrano z ogólnej listy tematów (tem7.pdf, 2024) według promotorów z Zakładu Równań Różniczkowych — lista nie przypisuje tematów do specjalności; tematy licencjackie dotyczą dotychczasowego programu.",
+    "Zakres egzaminu magisterskiego dla programu od 2026/27 (obecny plik dotyczy programu od 2019 r.).",
+    "Lista przedmiotów specjalności w dotychczasowym programie I stopnia (uchwała 40/2022) — brak w plikach starej strony.",
+    "Kartografia matematyczna — potwierdzić, czy nadal jest w ofercie NP (brak w Tabeli 12 przewodnika II stopnia).",
+    "Koło Naukowe Zastosowań Matematyki — potwierdzić, że koło jest aktywne (link z podstrony „Sprawy studenckie” starej strony).",
+    "Termin zgłoszenia promotora (Formularz E) — przewodnik II stopnia podaje 30 października / 30 marca, strona kierunku 31 października / 31 marca; ujednolicić."
+  ]
+}
